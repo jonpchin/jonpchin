@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on tb2d, a free to play online multiplayer competitive 2D shooter game. Join the tb2d discord server to access the closed beta: https://discord.gg/6NzkgQSwzq
+- 🔭 I’m currently working on tb2d, a free to play online multiplayer competitive 2D shooter game. Join the tb2d discord server to access the open beta: https://discord.gg/6NzkgQSwzq
 - ⚡ Fun fact: I am also the developer of Jin Conception: https://jin-conception.com
 <!--
 **jonpchin/jonpchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

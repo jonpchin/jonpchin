@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ⚡ I am the developer of Jin Conception: https://jin-conception.com and tb2d https://teambattle2d.com, a free to play online multiplayer competitive 2D shooter game.
+- ⚡ I am the developer of Jin Conception: https://jin-conception.com, a social deduction fantasy thriller turn based souls-like JRPG and tb2d https://teambattle2d.com, a free to play online multiplayer competitive 2D shooter game.
 <!--
 **jonpchin/jonpchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
